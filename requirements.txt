@@ -1,0 +1,15 @@
+truffle
+npm install -g truffle
+
+truffle/contract
+npm i @truffle/contract
+
+web3
+npm install web3
+
+ganache
+
+metamask
+
+chakra-ui
+npm i @chakra-ui/react @emotion/react@^11 @emotion/styled@^11 framer-motion@^6
